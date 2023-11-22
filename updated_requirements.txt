@@ -1,3 +1,3 @@
 
-Flask>=2.0,<3.0
-gunicorn>=20.0,<21.0  # Adding gunicorn for better compatibility with Azure deployment
+Flask>=2.0
+gunicorn>=20.0  # Adding gunicorn for better compatibility with Azure deployment
